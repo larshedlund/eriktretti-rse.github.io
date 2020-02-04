@@ -2,7 +2,7 @@ title: Larshedlund.GitHub.io
 description: Jag fyller 30!
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
