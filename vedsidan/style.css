@@ -1,0 +1,31 @@
+body {
+	background: url('pics/bgs/iframe.jpg') no-repeat;
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+body, table {
+	font-family: Verdana, Arial, Helvetica, Sans-serif;
+	font-size: 10px;
+	font-color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+.blackborder {
+	border: 1px #000000 solid;
+}
+a:link, a:active, a:visited {
+	color: green;
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover	{
+	color: green;
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: line-through;
+}
